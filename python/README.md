@@ -1,0 +1,1 @@
+changelog_collate - run at the root of your dart project. Have a changes folder for your current version changes in .md files. Only have the bullet points in these individual .md files.
